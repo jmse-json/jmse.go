@@ -39,7 +39,7 @@ without any additional terms or conditions.
 
 [//]: # (badges)
 
-[build-shield]: https://secure.travis-ci.com/jmse-json/jmse.go.svg?branch=master
+[build-shield]: https://travis-ci.com/jmse-json/jmse.go.svg?branch=develop
 [build-link]: http://travis-ci.com/jmse-json/jmse.go
 [godoc-shield]: https://godoc.org/github.com/jmse-json/jmse.go?status.svg
 [godoc-link]: https://godoc.org/github.com/jmse-json/jmse.go
