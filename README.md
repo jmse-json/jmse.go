@@ -1,4 +1,4 @@
-# jmse.go [![Build Status][build-image]][build-link] [![GoDoc][godoc-image]][godoc-link] [![Go Report Card][goreport-image]][goreport-link] [![Apache 2.0 License][license-image]][license-link]
+# jmse.go [![GoDoc][godoc-image]][godoc-link] [![Apache 2.0 License][license-image]][license-link] [![Build Status][build-image]][build-link] [![Go Report Card][goreport-image]][goreport-link]
 
 Go implementation of JSON Message Signing and Encryption (JMSE):
 An interoperable, minimalist signing and encryption format for serialized
