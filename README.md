@@ -1,4 +1,4 @@
-# jmse.go [![Build Status][build-shield]][build-link] [![GoDoc][godoc-shield]][godoc-link] [![Go Report Card][goreport-shield]][goreport-link] [![Apache 2.0 License][license-image]][license-link]
+# jmse.go [![Build Status][build-image]][build-link] [![GoDoc][godoc-image]][godoc-link] [![Go Report Card][goreport-image]][goreport-link] [![Apache 2.0 License][license-image]][license-link]
 
 Go implementation of JSON Message Signing and Encryption (JMSE):
 An interoperable, minimalist signing and encryption format for serialized
@@ -39,11 +39,11 @@ without any additional terms or conditions.
 
 [//]: # (badges)
 
-[build-shield]: https://travis-ci.com/jmse-json/jmse.go.svg?branch=develop
+[build-image]: https://travis-ci.com/jmse-json/jmse.go.svg?branch=develop
 [build-link]: http://travis-ci.com/jmse-json/jmse.go
-[godoc-shield]: https://godoc.org/github.com/jmse-json/jmse.go?status.svg
+[godoc-image]: https://godoc.org/github.com/jmse-json/jmse.go?status.svg
 [godoc-link]: https://godoc.org/github.com/jmse-json/jmse.go
-[goreport-shield]: https://goreportcard.com/badge/github.com/jmse-json/jmse.go
+[goreport-image]: https://goreportcard.com/badge/github.com/jmse-json/jmse.go
 [goreport-link]: https://goreportcard.com/report/github.com/jmse-json/jmse.go
 [license-image]: https://img.shields.io/badge/license-Apache2.0-blue.svg
 [license-link]: https://github.com/jmse-json/jmse.js/blob/master/LICENSE
