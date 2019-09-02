@@ -39,8 +39,8 @@ without any additional terms or conditions.
 
 [//]: # (badges)
 
-[build-shield]: https://secure.travis-ci.org/jmse-json/jmse.go.svg?branch=master
-[build-link]: http://travis-ci.org/jmse-json/jmse.go
+[build-shield]: https://secure.travis-ci.com/jmse-json/jmse.go.svg?branch=master
+[build-link]: http://travis-ci.com/jmse-json/jmse.go
 [godoc-shield]: https://godoc.org/github.com/jmse-json/jmse.go?status.svg
 [godoc-link]: https://godoc.org/github.com/jmse-json/jmse.go
 [goreport-shield]: https://goreportcard.com/badge/github.com/jmse-json/jmse.go
